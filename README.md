@@ -1,5 +1,5 @@
-# canal874-jstest-playground-using-eval
-Created with CodeSandbox: https://codesandbox.io/s/github/canal874/canal874-jstest-playground-using-eval
+# jstest-playground-using-eval
+Created with CodeSandbox: https://codesandbox.io/s/github/canal874/jstest-playground-using-eval
 
 This is an exapmle of JavaScript playground implementation.
 
